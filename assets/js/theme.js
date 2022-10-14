@@ -150,8 +150,8 @@ Brand One Carousel
             autoplay: true,
             autoplayTimeout: 7000,
             navText: [
-                '<span class="icon fa fa-angle-left"></span><p>Prev</p>',
-                '<p>Next</p><span class="icon fa fa-angle-right"></span>',
+                '<span class="icon fa fa-angle-left"></span><p>Poprzedni</p>',
+                '<p>Następny</p><span class="icon fa fa-angle-right"></span>',
             ],
             responsive: {
                 0: {
